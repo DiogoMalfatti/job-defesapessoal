@@ -1,0 +1,181 @@
+/* font converted using font-converter.net. thank you! */
+
+@font-face {
+  font-family: "Dosis-Bold";
+  src: url("./fonts/Dosis-Bold.eot"); /* IE9 Compat Modes */
+  src: url("./fonts/Dosis-Bold.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("./fonts/Dosis-Bold.otf") format("opentype"), /* Open Type Font */
+    url("./fonts/Dosis-Bold.svg") format("svg"), /* Legacy iOS */
+    url("./fonts/Dosis-Bold.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("./fonts/Dosis-Bold.woff") format("woff"), /* Modern Browsers */
+    url("./fonts/Dosis-Bold.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Dosis-ExtraBold";
+  src: url("./fonts/Dosis-ExtraBold.eot"); /* IE9 Compat Modes */
+  src: url("./fonts/Dosis-ExtraBold.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("./fonts/Dosis-ExtraBold.otf") format("opentype"), /* Open Type Font */
+    url("./fonts/Dosis-ExtraBold.svg") format("svg"), /* Legacy iOS */
+    url("./fonts/Dosis-ExtraBold.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("./fonts/Dosis-ExtraBold.woff") format("woff"), /* Modern Browsers */
+    url("./fonts/Dosis-ExtraBold.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Dosis-ExtraLight";
+  src: url("./fonts/Dosis-ExtraLight.eot"); /* IE9 Compat Modes */
+  src: url("./fonts/Dosis-ExtraLight.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("./fonts/Dosis-ExtraLight.otf") format("opentype"), /* Open Type Font */
+    url("./fonts/Dosis-ExtraLight.svg") format("svg"), /* Legacy iOS */
+    url("./fonts/Dosis-ExtraLight.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("./fonts/Dosis-ExtraLight.woff") format("woff"), /* Modern Browsers */
+    url("./fonts/Dosis-ExtraLight.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: "Dosis-Light";
+  src: url("./fonts/Dosis-Light.eot"); /* IE9 Compat Modes */
+  src: url("./fonts/Dosis-Light.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("./fonts/Dosis-Light.otf") format("opentype"), /* Open Type Font */
+    url("./fonts/Dosis-Light.svg") format("svg"), /* Legacy iOS */
+    url("./fonts/Dosis-Light.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("./fonts/Dosis-Light.woff") format("woff"), /* Modern Browsers */
+    url("./fonts/Dosis-Light.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: "Dosis-Medium";
+  src: url("./fonts/Dosis-Medium.eot"); /* IE9 Compat Modes */
+  src: url("./fonts/Dosis-Medium.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("./fonts/Dosis-Medium.otf") format("opentype"), /* Open Type Font */
+    url("./fonts/Dosis-Medium.svg") format("svg"), /* Legacy iOS */
+    url("./fonts/Dosis-Medium.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("./fonts/Dosis-Medium.woff") format("woff"), /* Modern Browsers */
+    url("./fonts/Dosis-Medium.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: "Dosis-Regular";
+  src: url("./fonts/Dosis-Regular.eot"); /* IE9 Compat Modes */
+  src: url("./fonts/Dosis-Regular.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("./fonts/Dosis-Regular.otf") format("opentype"), /* Open Type Font */
+    url("./fonts/Dosis-Regular.svg") format("svg"), /* Legacy iOS */
+    url("./fonts/Dosis-Regular.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("./fonts/Dosis-Regular.woff") format("woff"), /* Modern Browsers */
+    url("./fonts/Dosis-Regular.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: "Dosis-SemiBold";
+  src: url("./fonts/Dosis-SemiBold.eot"); /* IE9 Compat Modes */
+  src: url("./fonts/Dosis-SemiBold.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("./fonts/Dosis-SemiBold.otf") format("opentype"), /* Open Type Font */
+    url("./fonts/Dosis-SemiBold.svg") format("svg"), /* Legacy iOS */
+    url("./fonts/Dosis-SemiBold.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("./fonts/Dosis-SemiBold.woff") format("woff"), /* Modern Browsers */
+    url("./fonts/Dosis-SemiBold.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+
+@font-face {
+  font-family: "Gobold";
+  src: url("./fonts/GoboldRegular.eot"); /* IE9 Compat Modes */
+  src: url("./fonts/GoboldRegular.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("./fonts/GoboldRegular.otf") format("opentype"), /* Open Type Font */
+    url("./fonts/GoboldRegular.svg") format("svg"), /* Legacy iOS */
+    url("./fonts/GoboldRegular.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("./fonts/GoboldRegular.woff") format("woff"), /* Modern Browsers */
+    url("./fonts/GoboldRegular.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: "GoboldBold";
+  src: url("./fonts/GoboldBold.eot"); /* IE9 Compat Modes */
+  src: url("./fonts/GoboldBold.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("./fonts/GoboldBold.otf") format("opentype"), /* Open Type Font */
+    url("./fonts/GoboldBold.svg") format("svg"), /* Legacy iOS */
+    url("./fonts/GoboldBold.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("./fonts/GoboldBold.woff") format("woff"), /* Modern Browsers */
+    url("./fonts/GoboldBold.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: "GoboldBold-Italic";
+  src: url("./fonts/GoboldBoldItalic.eot"); /* IE9 Compat Modes */
+  src: url("./fonts/GoboldBoldItalic.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("./fonts/GoboldBoldItalic.otf") format("opentype"), /* Open Type Font */
+    url("./fonts/GoboldBoldItalic.svg") format("svg"), /* Legacy iOS */
+    url("./fonts/GoboldBoldItalic.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("./fonts/GoboldBoldItalic.woff") format("woff"), /* Modern Browsers */
+    url("./fonts/GoboldBoldItalic.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: "Gobold-Italic";
+  src: url("./fonts/GoboldRegularItalic.eot"); /* IE9 Compat Modes */
+  src: url("./fonts/GoboldRegularItalic.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("./fonts/GoboldRegularItalic.otf") format("opentype"), /* Open Type Font */
+    url("./fonts/GoboldRegularItalic.svg") format("svg"), /* Legacy iOS */
+    url("./fonts/GoboldRegularItalic.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("./fonts/GoboldRegularItalic.woff") format("woff"), /* Modern Browsers */
+    url("./fonts/GoboldRegularItalic.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: "GoboldThin";
+  src: url("./fonts/GoboldThin.eot"); /* IE9 Compat Modes */
+  src: url("./fonts/GoboldThin.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("./fonts/GoboldThin.otf") format("opentype"), /* Open Type Font */
+    url("./fonts/GoboldThin.svg") format("svg"), /* Legacy iOS */
+    url("./fonts/GoboldThin.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("./fonts/GoboldThin.woff") format("woff"), /* Modern Browsers */
+    url("./fonts/GoboldThin.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: "GoboldThin-Italic";
+  src: url("./fonts/GoboldThinItalic.eot"); /* IE9 Compat Modes */
+  src: url("./fonts/GoboldThinItalic.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("./fonts/GoboldThinItalic.otf") format("opentype"), /* Open Type Font */
+    url("./fonts/GoboldThinItalic.svg") format("svg"), /* Legacy iOS */
+    url("./fonts/GoboldThinItalic.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("./fonts/GoboldThinItalic.woff") format("woff"), /* Modern Browsers */
+    url("./fonts/GoboldThinItalic.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+}
